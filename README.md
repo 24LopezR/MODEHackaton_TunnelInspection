@@ -30,5 +30,9 @@ In the case of receiving more than one solution, the total score of the challeng
 $$\text{Score} = 0.5\dfrac{S1-\min{(S1)}}{\max{(S1)}-\min{(S1)}} + 0.5\dfrac{S2-\min{(S2)}}{\max{(S2)}-\min{(S2)}}$$
 
 The data for the challenge can be found here:
-- Open sky dataset: https://nextcloud.ifca.es/index.php/s/ZdoGxoT8Fs6NDwe/download
-- Tunnel dataset: https://nextcloud.ifca.es/index.php/s/KXSjiPqybAQjjgC/download
+- Open sky dataset:
+  - Link 1: https://nextcloud.ifca.es/index.php/s/ZdoGxoT8Fs6NDwe/download
+  - Link 2: https://cernbox.cern.ch/s/IcCLMrL6L6CndLC
+- Tunnel dataset:
+  - Link 1: https://nextcloud.ifca.es/index.php/s/KXSjiPqybAQjjgC/download
+  - Link 2: https://cernbox.cern.ch/s/KiScDEQqiPEOeuR
